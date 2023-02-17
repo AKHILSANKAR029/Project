@@ -1,3 +1,8 @@
+# This is used to organise files in accordance with their respective directories.
+
+#Python 3 Code:
+
+
 import os
 import shutil
 import tkinter as tk
